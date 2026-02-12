@@ -1,4 +1,4 @@
-module github.com/npxcomplete/handwound
+module github.com/circumvent-io/handwound
 
 go 1.25.6
 
